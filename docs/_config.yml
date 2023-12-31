@@ -61,7 +61,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-  whitelist:
+whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
