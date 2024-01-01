@@ -1,2 +1,2 @@
-# reidzeibel.github.io
-Reidzeibel's blog on github
+# ridwanadit.github.io
+Ridwanadit's blog on github
