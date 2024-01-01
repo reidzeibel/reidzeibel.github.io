@@ -73,25 +73,19 @@ author:
   bio    : "Indonesian living in Trondheim, Norway. Android & React Front-End Developer, casual gamer, husband, dad, interista."
   location: "Trondheim, Norway" 
   links:
-    - label: "@ridwanadit"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ridwanadit"
-    - label: "@ridwanadit"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/ridwanadit"
-    - label: "@reidzeibel"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/reidzeibel"
 
 footer:
   links:
-    - label: "@ridwanadit"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ridwandit"
-    - label: "@ridwanadit"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/ridwanadit"
-    - label: "@reidzeibel"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/reidzeibel"
     
