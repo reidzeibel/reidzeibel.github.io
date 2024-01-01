@@ -70,8 +70,8 @@ whitelist:
 author:
   name   : "Ridwan Aditama"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "WNI yang sedang tinggal di Trondheim dengan keluarga, Android developer yang sedang belajar dan bekerja jadi React Front-end developer, gamer, dan forza Inter!"
-  location: "Trondheim, Norway" 
+  bio    : "WNI yang sedang merantau dengan keluarga. Android developer, React Front-end developer, gamer, forza Inter!"
+  location: "Trondheim, Norwegia" 
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
